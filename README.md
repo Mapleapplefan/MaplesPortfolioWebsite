@@ -2,7 +2,7 @@
 My portfolio website for Software Development (specifically Game + Web Dev)
 
 https://mapleapplefan.github.io/MaplesPortfolioWebsite/
-
+ 
 ## Update 1.2
 Skills Practiced: Intersection Observer
 
