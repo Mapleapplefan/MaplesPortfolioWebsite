@@ -1,7 +1,7 @@
 #Portfolio Website
 My portfolio website! Displays my creative mind + technical skills!
 
-https://mapleapplefan.github.io/MaplesPortfolioWebsite/
+https://mapleapplefan.github.io/portfolio-website/
  
 ## Update 1.2
 Skills Practiced: Intersection Observer
