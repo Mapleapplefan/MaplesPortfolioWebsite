@@ -1,5 +1,5 @@
-# MaplesPortfolioWebsite
-My portfolio website for Software Development (specifically Game + Web Dev)
+#Portfolio Website
+My portfolio website! Displays my creative mind + technical skills!
 
 https://mapleapplefan.github.io/MaplesPortfolioWebsite/
  
