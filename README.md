@@ -1,4 +1,4 @@
-#Portfolio Website
+# Portfolio Website
 My portfolio website! Displays my creative mind + technical skills!
 
 https://syrupmap.github.io/Portfolio-Website/
